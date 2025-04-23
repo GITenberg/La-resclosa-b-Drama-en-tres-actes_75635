@@ -1,0 +1,50 @@
+_repo: La-resclosa-b-Drama-en-tres-actes_75635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Iglesias, Ignasi
+    aliases:
+    - Iglésias, Ignasi
+    - Iglesias, Ignacio
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '56807'
+    url: http://www.gutenberg.org/2009/agents/56807
+    wikipedia: https://ca.wikipedia.org/wiki/Ignasi_Igl%C3%A9sias_i_Pujadas
+description: 'Reading ease score: 89.7 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Literature'
+- 'Browsing: Performing Arts/Film'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75635'
+language: ca
+pgterms:marc905: 20250316034200iglesias
+pgterms:marc906: '1900'
+pgterms:marc907: es
+production_note: 'Editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bTip. L''Avenç, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan drama'
+- !lcc 'PC'
+- GITenberg
+summary: '"La resclosa: Drama en tres actes" by Ignasi Iglesias is a play written
+  in the early 20th century. The work unfolds in a mountainous setting and explores
+  themes of love, societal expectations, and personal sacrifice. The central characters
+  include Nuria, a young woman caught in the turmoil of her emotions, and David, who
+  harbors deep feelings for her, complicating her engagement to another man, Adriá.  At
+  the start of the play, we are introduced to David and Arcadi, who are painting in
+  nature while discussing artistic matters and the emotional state of their friend
+  Adriá, who is engaged to Nuria. As the dialogue progresses, hints about the tension
+  surrounding Nuria''s impending marriage emerge, along with hints of deep affections
+  that complicate relationships among the characters. Notably, David faces an internal
+  struggle as he expresses a desire to rescue Nuria from a life of servitude and unfulfilled
+  dreams, while she grapples with her feelings and the pressures of obligation. The
+  opening sets the stage for a dramatic exploration of these intertwining lives against
+  the backdrop of societal expectations. (This is an automatically generated summary.)'
+title: 'La resclosa : $b Drama en tres actes'
+url: http://www.gutenberg.org/ebooks/75635
