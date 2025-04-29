@@ -1,5 +1,8 @@
 _repo: La-resclosa-b-Drama-en-tres-actes_75635
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75635-h/images/cover.jpg
 creator:
   author:
     agent_name: Iglesias, Ignasi
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56807
     wikipedia: https://ca.wikipedia.org/wiki/Ignasi_Igl%C3%A9sias_i_Pujadas
 description: 'Reading ease score: 89.7 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75635#La-resclosa-b-Drama-en-tres-actes
 gutenberg_bookshelf:
 - 'Browsing: Literature'
 - 'Browsing: Performing Arts/Film'
